@@ -1,0 +1,21 @@
+E:\APM\Agent\donet\trunk\test\Bonree Test WebSite\WcfService\Debug\bin\Client.exe.config
+E:\APM\Agent\donet\trunk\test\Bonree Test WebSite\WcfService\Debug\bin\Client.exe
+E:\APM\Agent\donet\trunk\test\Bonree Test WebSite\WcfService\Debug\bin\Client.pdb
+E:\APM\Agent\donet\trunk\test\Bonree Test WebSite\WcfService\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\APM\Agent\donet\trunk\test\Bonree Test WebSite\WcfService\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\APM\Agent\donet\trunk\test\Bonree Test WebSite\WcfService\Client\obj\Debug\Client.exe
+E:\APM\Agent\donet\trunk\test\Bonree Test WebSite\WcfService\Client\obj\Debug\Client.pdb
+C:\Users\bonree\Desktop\WcfService\WcfService\Debug\bin\Client.exe.config
+C:\Users\bonree\Desktop\WcfService\WcfService\Debug\bin\Client.exe
+C:\Users\bonree\Desktop\WcfService\WcfService\Debug\bin\Client.pdb
+C:\Users\bonree\Desktop\WcfService\WcfService\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\bonree\Desktop\WcfService\WcfService\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\WcfService\WcfService\Client\obj\Debug\Client.exe
+C:\Users\bonree\Desktop\WcfService\WcfService\Client\obj\Debug\Client.pdb
+C:\Users\bonree\Desktop\webapi\WcfService\Debug\bin\Client.exe.config
+C:\Users\bonree\Desktop\webapi\WcfService\Debug\bin\Client.exe
+C:\Users\bonree\Desktop\webapi\WcfService\Debug\bin\Client.pdb
+C:\Users\bonree\Desktop\webapi\WcfService\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\bonree\Desktop\webapi\WcfService\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\WcfService\Client\obj\Debug\Client.exe
+C:\Users\bonree\Desktop\webapi\WcfService\Client\obj\Debug\Client.pdb

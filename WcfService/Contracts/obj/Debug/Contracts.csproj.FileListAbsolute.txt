@@ -1,0 +1,15 @@
+E:\APM\Agent\donet\trunk\test\Bonree Test WebSite\WcfService\Debug\bin\Contracts.dll
+E:\APM\Agent\donet\trunk\test\Bonree Test WebSite\WcfService\Debug\bin\Contracts.pdb
+E:\APM\Agent\donet\trunk\test\Bonree Test WebSite\WcfService\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+E:\APM\Agent\donet\trunk\test\Bonree Test WebSite\WcfService\Contracts\obj\Debug\Contracts.dll
+E:\APM\Agent\donet\trunk\test\Bonree Test WebSite\WcfService\Contracts\obj\Debug\Contracts.pdb
+C:\Users\bonree\Desktop\WcfService\WcfService\Debug\bin\Contracts.dll
+C:\Users\bonree\Desktop\WcfService\WcfService\Debug\bin\Contracts.pdb
+C:\Users\bonree\Desktop\WcfService\WcfService\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\WcfService\WcfService\Contracts\obj\Debug\Contracts.dll
+C:\Users\bonree\Desktop\WcfService\WcfService\Contracts\obj\Debug\Contracts.pdb
+C:\Users\bonree\Desktop\webapi\WcfService\Debug\bin\Contracts.dll
+C:\Users\bonree\Desktop\webapi\WcfService\Debug\bin\Contracts.pdb
+C:\Users\bonree\Desktop\webapi\WcfService\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\bonree\Desktop\webapi\WcfService\Contracts\obj\Debug\Contracts.dll
+C:\Users\bonree\Desktop\webapi\WcfService\Contracts\obj\Debug\Contracts.pdb
